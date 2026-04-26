@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace api.Migrations
 {
     /// <inheritdoc />
@@ -193,6 +195,15 @@ namespace api.Migrations
                         column: x => x.StockId,
                         principalTable: "Stocks",
                         principalColumn: "Id");
+                });
+
+            migrationBuilder.InsertData(
+                table: "AspNetRoles",
+                columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
+                values: new object[,]
+                {
+                    { "Admin", "1", "Admin", "ADMIN" },
+                    { "User", "2", "User", "USER" }
                 });
 
             migrationBuilder.CreateIndex(

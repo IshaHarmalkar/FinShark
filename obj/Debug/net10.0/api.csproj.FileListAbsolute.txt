@@ -55,6 +55,10 @@ E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\api.pdb
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Azure.Core.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Azure.Identity.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Humanizer.dll
+E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
@@ -88,6 +92,7 @@ E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.OpenApi.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Mono.TextTemplating.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -215,8 +220,3 @@ E:\projects\dotNet\FinShark\api\obj\Debug\net10.0\refint\api.dll
 E:\projects\dotNet\FinShark\api\obj\Debug\net10.0\api.pdb
 E:\projects\dotNet\FinShark\api\obj\Debug\net10.0\api.genruntimeconfig.cache
 E:\projects\dotNet\FinShark\api\obj\Debug\net10.0\ref\api.dll
-E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
-E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
-E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-E:\projects\dotNet\FinShark\api\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

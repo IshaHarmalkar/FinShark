@@ -12,6 +12,7 @@
           indicator-color="tertiary"
         >
           <q-route-tab name="Home" label="Home" to="/" />
+          <q-route-tab name="Stocks" label="Stocks" to="/stocks" />
 
           <q-route-tab name="Login" label="Login" to="/login" />
           <q-route-tab name="Register" label="Register" to="/register" />

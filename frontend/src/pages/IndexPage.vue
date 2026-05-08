@@ -1,15 +1,15 @@
 <template>
   <q-page class="flex flex-center">
-    <StockCard :stock="sampleStock" />
+    <StockSearchBar />
   </q-page>
 </template>
 
 <script>
-import StockCard from 'src/components/StockCard.vue'
+import StockSearchBar from 'src/components/StockSearchBar.vue'
 
 export default {
   components: {
-    StockCard,
+    StockSearchBar,
   },
   data() {
     return {
